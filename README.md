@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Olá eu sou o William ! </h1>
+<h1>Hello I'm William !</h1>
 
   <div style="display:flex; flex-direction:column; width:100px;">
   <img src="https://media.licdn.com/dms/image/C4E03AQHUOBoxw1y5jA/profile-displayphoto-shrink_200_200/0/1597107036916?e=1692835200&v=beta&t=kOXZan1pUEtPiMP_pbtN4NcStBaU2iEUxv-t75eRTJk" alt="William" title="William" width="100" height="100" />
