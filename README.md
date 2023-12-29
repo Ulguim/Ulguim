@@ -2,9 +2,9 @@
 <div align="center">
 <h1>Hello I'm William !</h1>
 
-
-    <a style="margin-top:20px; margin-bottom:20px;" href="https://www.linkedin.com/in/william-da-silva-589403163/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
+ <div style="display:flex; flex-direction:column; width:100px;">
+  <img src="https://media.licdn.com/dms/image/C4E03AQHUOBoxw1y5jA/profile-displayphoto-shrink_200_200/0/1597107036916?e=1692835200&v=beta&t=kOXZan1pUEtPiMP_pbtN4NcStBaU2iEUxv-t75eRTJk" alt="William" title="William" width="100" height="100" />
+  </div>
   </a>
 <p> Welcome to my GitHub profile! Here you will find a variety of projects I have developed with different approaches, both on the front-end and back-end. I'm a developer who is passionate about technology and constantly seeks to learn and explore new tools. I work with languages such as TypeScript, JavaScript, and Java, along with popular frameworks like Next.js, Vue.js, Nest.js, and TypeORM.
 
